@@ -1,7 +1,7 @@
 
-public class StudentDriver {
+public class CrazyGlueDriver {
     public static void main(String[] args) {
-        Student sam = new Student(1234, "Sam");
+        CrazyGlue sam = new CrazyGlue(1234, "Sam");
         System.out.println(sam);
     }
 }
